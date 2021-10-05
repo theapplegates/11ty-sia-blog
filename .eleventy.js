@@ -6,6 +6,9 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const filters = require('./src/_11ty/filters');
+const Image = require("@11ty/eleventy-img");
+const path = require('path');
+const embedTwitter = require("eleventy-plugin-embed-twitter");
 
 module.exports = function(eleventyConfig) {
   // Add plugins
