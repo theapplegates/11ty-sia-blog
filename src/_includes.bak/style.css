@@ -3,7 +3,7 @@
   --font-body: -apple-system, system-ui, sans-serif;
   --font-display: -apple-system, system-ui, sans-serif;
 
-  --lightgray: #F2BFAC;
+  --lightgray: #e0e0e0;
   --gray: #C0C0C0;
   --darkgray: #333;
   --navy: #17050F;
@@ -213,13 +213,12 @@ table th {
   text-transform: uppercase;
   font-size: 0.75em; /* 12px /16 */
   padding: 0.08333333333333em 0.3333333333333em; /* 1px 4px /12 */
-  margin-left: 0.08333333333333em;
-  /*margin-left: 0.6666666666667em; /* 8px /12 */
+  margin-left: 0.6666666666667em; /* 8px /12 */
   margin-top: 0.5em; /* 6px /12 */
   margin-bottom: 0.5em; /* 6px /12 */
   color: var(--darkgray);
-  /* border: 1px solid var(--gray);
-  /* border-radius: 0.25em; /* 3px /12 */
+  border: 1px solid var(--gray);
+  border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
   line-height: 1.8;
 }
@@ -251,12 +250,6 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
-}
-
-/* Fontawesome icons */
-.fa {
-  padding: var(--size-100);
-  text-align: center;
 }
 
 /* Footer */

@@ -6,11 +6,10 @@ templateClass: tmpl-post
 <div class="h-entry content-780 flow">
   <h1 class="p-name">{{ title }}</h1>
 
-  <i class="fa-thin fa-calendar"></i> <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
-<br>
+  <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
   {%- for tag in tags | filterTagList -%}
     {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-    <i class="fa-thin fa-tag"></i> <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+    <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
   {%- endfor %}
 
   <div class="e-content flow">
