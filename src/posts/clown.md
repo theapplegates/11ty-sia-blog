@@ -9,6 +9,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale/v1632259687/hillshire-farm.jpg"  alt="" class="cld-responsive">
+
 Fully vaccinated individuals have a much greater chance of not being impacted by COVID-19, whether that impact is via infection, hospitalization, or death.
 
 {% image "clown.jpg", "Picture of a clown" %}
