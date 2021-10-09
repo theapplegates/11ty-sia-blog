@@ -1,5 +1,5 @@
 ---
-title: Algolia Test
+title: Stupid markdown
 description: Trust the search
 date: 2021-10-08
 tags:
