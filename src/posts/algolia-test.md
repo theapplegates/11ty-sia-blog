@@ -3,9 +3,9 @@ title: Algolia Test
 description: Trust the search
 date: 2021-10-08
 tags:
-	- Search
-	- Algolia
-	- Fingers Crossed
+	- Pandemic
+	- CDC
+	- COVID-19
 layout: layouts/post.njk
 ---
 
