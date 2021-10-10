@@ -6,7 +6,7 @@ tags: second tag
 layout: layouts/post.njk
 ---
 
-Just a test post. Nothing to see here, move along.
+Just a test post. Nothing to see here, move along. Just a test post.
 <picture>
 <source
 media="(max-width: 767px)"
