@@ -15,6 +15,9 @@ layout: layouts/post.njk
 This code `<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale/v1632259687/hillshire-farm.jpg"  alt="" class="cld-responsive">` gave you that yummy image above. It was served by Cloudinary. It will adapt to your browser and serve you the appropriate image format from a `JPG` to a `webp`, or the latest format an `avif` image.
 By using javascript [Cloudinary](https://cloudinary.com) will send you the correct image size. It won't send a 5MB image meant for your computer to your iPhone. It will detect which device you are using and send the correct size.
 
+One more test below. Same url, etc.
+
+<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale/v1632495638/almost-there.jpg"  alt="" class="cld-responsive">
 
 Fully vaccinated individuals have a much greater chance of not being impacted by COVID-19, whether that impact is via infection, hospitalization, or death.
 
