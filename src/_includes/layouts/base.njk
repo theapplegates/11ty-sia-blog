@@ -47,7 +47,7 @@
       {%- for entry in collections.all | eleventyNavigation %}
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
       {%- endfor %}
-        <li class="nav-item">  <a href="/feed/feed.xml"> <i class="fa-thin fa-square-rss"></i> </a></li> <li class="nav-item"><div id="search"></div></li>
+        <li class="nav-item">  <a href="/feed/feed.xml"> <i class="fa-light fa-square-rss"></i> </a></li> <li class="nav-item"><div id="search"></div></li>
       </ul>
     </header>
 
