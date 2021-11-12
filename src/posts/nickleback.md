@@ -1,6 +1,6 @@
 ---
 title: "Why does everyone hate Nickelback?"
-description: "Hearing a Nickleback song reminded me why does everyone hate Nickelback?"
+description: "Hearing a Nickelback song reminded me why does everyone hate Nickelback?"
 date: 2021-10-11
 tags:
 - Nickleback
