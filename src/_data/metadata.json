@@ -1,21 +1,21 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "Living Life",
+  "url": "https://eager-keller-92194d.netlify.app/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Follow my daily hijinks here. A lot of science-related stuff, and some serious subjects like cancer. Fuck cancer.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Follow my daily hijinks here.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://eager-keller-92194d.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://eager-keller-92194d.netlify.app/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Paul Applegate",
+    "email": "me@paulapplegate.com",
+    "url": "https://eager-keller-92194d.netlify.app/about-me/"
   }
 }
