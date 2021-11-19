@@ -59,6 +59,7 @@ h3, h3 code { font-size: var(--size-700); }
 h4 { font-size: var(--size-600); }
 h5 { font-size: var(--size-500); }
 small { font-size: var(--size-300); }
+xsmall { font-size: var(--size 250);}
 
 main {
   max-width: 100vw;
