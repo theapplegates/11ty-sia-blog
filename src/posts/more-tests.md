@@ -19,10 +19,12 @@ As you can see the test did not go well. I have no idea why.
 The pancake image in the first post worked fine.
 Off to investigate.
 
-![squirrel](https://applegate-paul.mo.cloudinary.net/img/Squirrel-mountaintop.jpg)
+ALL FIXED ! Yay
 
-![muffin](https://applegate-paul.mo.cloudinary.net/img/muffin.jpg)
+![squirrel](https://applegate-paul.mo.cloudinary.net/Squirrel-mountaintop.jpg)
 
-![volleyball](https://applegate-paul.mo.cloudinary.net/img/volleyball-sunset.jpg)
+![muffin](https://applegate-paul.mo.cloudinary.net/muffin.jpg)
 
-![street-scene](https://applegate-paul.mo.cloudinary.net/img/street-scene-wet.jpg)
+![volleyball](https://applegate-paul.mo.cloudinary.net/volleyball-sunset.jpg)
+
+![street-scene](https://applegate-paul.mo.cloudinary.net/street-scene-wet.jpg)
