@@ -15,6 +15,10 @@ The magic happens then. Cloudinary determines the screen size of the user's devi
 It just works, as Apple likes to say.
 
 
+As you can see the test did not go well. I have no idea why.
+The pancake image in the first post worked fine.
+Off to investigate.
+
 ![squirrel](https://applegate-paul.mo.cloudinary.net/img/Squirrel-mountaintop.jpg)
 
 ![muffin](https://applegate-paul.mo.cloudinary.net/img/muffin.jpg)
