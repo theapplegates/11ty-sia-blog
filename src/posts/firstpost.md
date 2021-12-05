@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 The first post.
-![Pancakes](https://applegate-paul.mo.cloudinary.net/img/pancakes.jpg)
+![Pancakes](https://applegate-paul.mo.cloudinary.net/pancakes.jpg)
 
 
 
