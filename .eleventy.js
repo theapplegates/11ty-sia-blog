@@ -9,6 +9,9 @@ const filters = require('./src/_11ty/filters');
 const Image = require("@11ty/eleventy-img");
 const path = require('path');
 const embedTwitter = require("eleventy-plugin-embed-twitter");
+const pluginWebmentions = require("@chrisburnell/eleventy-cache-webmentions");
+
+
 
 async function imageShortcode(src, alt) {
   let sizes = "(min-width: 1024px) 100vw, 50vw"
@@ -55,7 +58,8 @@ async function imageShortcode(src, alt) {
 
 
 module.exports = function(eleventyConfig) {
-  
+
+
   eleventyConfig.addPlugin(embedTwitter);
 
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode)
@@ -64,8 +68,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addJavaScriptFunction("image", imageShortcode)
 
 
-  
+
   // Add plugins
+  eleventyConfig.addPlugin(pluginWebmentions, {
+    domain: "https://eager-keller-92194d.netlify.app" // this is required!
+  })
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
