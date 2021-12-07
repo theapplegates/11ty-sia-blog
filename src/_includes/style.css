@@ -91,7 +91,7 @@ lite-youtube {--flow-space: var(--size-700)}
 }
 
 img {
-  height: auto;
+  //height: auto;
   max-width: 100%;
 }
 
