@@ -24,3 +24,6 @@ Then my Grandmother.
 A bonus pic of me, my bvrother Kevin, and our Dad.
 
 {% image "Dad-kevin-meApril-10-2010.jpg", "Me, my brother and my Dad" %}
+
+
+![a test](https://applegate-paul.mo.cloudinary.net/Dad-kevin-meApril-10-2010.jpg)
