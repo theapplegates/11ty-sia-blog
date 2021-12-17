@@ -10,4 +10,4 @@ layout: layouts/post.njk
 ---
 How about a juicy hamburger to start things off?
 
-![A hamburger](https://applegate-paul.mo.cloudinary.net/img/hamburger-yum.jpg)
+![A train](https://applegate-paul.mo.cloudinary.net/train.jpg)
