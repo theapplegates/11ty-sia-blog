@@ -9,6 +9,9 @@ tags:
 layout: layouts/post.njk
 ---
 
+![test image](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/airport-candid.jpg)
+
+
 Cloudinary in the past week launched their [Cloudinary Media Optimizer](https://cloudinary.com/blog/introducing_cloudinary_media_optimizer_automation_of_quality_and_high_performance_delivery). This service allows end-users to use the URL provided by Cloudinary to optimize images and video. This used to be a paid-only service made available to Enterprise Users.
 When you signup you get to pick a prefix for a URL. https://pick-prefix.mo.cloudiinary.net. You then change your site's image URL's to point to Cloudinary's service.
 The magic happens then. Cloudinary determines the screen size of the user's device and delivers the correct size and image format. Some image formats include AVIF, WEBP, JP2.
