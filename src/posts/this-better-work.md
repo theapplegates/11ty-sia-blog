@@ -2,7 +2,11 @@
 title: This will work.
 description: This better work.
 date: 2021-12-29
-tags: blog dog microscope
+tags:
+- Blog
+- Testing
+- WebPerf
+- NASA
 layout: layouts/post.njk
 ---
 
