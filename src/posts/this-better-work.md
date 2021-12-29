@@ -6,8 +6,10 @@ tags: blog dog microscope
 layout: layouts/post.njk
 ---
 
-![a test](https://applegate-paul.mo.cloudinary.net/src/img/another-tree.jpg)
+![a test](https://applegate-paul.mo.cloudinary.net/another-tree.jpg)
 
+
+<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale/v1640815409/another-tree.jpg" alt="" class="cld-responsive">
 
 Some of the most exciting space missions are ready to kick off in 2022.
 
