@@ -2,11 +2,11 @@
 title: This will work.
 description: This better work.
 date: 2021-12-29
-tags: blog, dog, microscope
+tags: blog dog microscope
 layout: layouts/post.njk
 ---
 
-![a test](https://applegate-paul.mo.cloudinary.net/img/another-tree.jpg)
+![a test](https://applegate-paul.mo.cloudinary.net/src/img/another-tree.jpg)
 
 
 Some of the most exciting space missions are ready to kick off in 2022.
