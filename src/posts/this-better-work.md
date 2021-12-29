@@ -6,7 +6,7 @@ tags: blog, dog, microscope
 layout: layouts/post.njk
 ---
 
-![a test](https://applegate-paul.mo.cloudinary.net/another-tree.jpg)
+![a test](https://applegate-paul.mo.cloudinary.net/img/another-tree.jpg)
 
 
 Some of the most exciting space missions are ready to kick off in 2022.
