@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale/v1633963153/Nickelback_AMAs_2011.jpg"  alt="" class="cld-responsive">
+![Nickelback]("https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale/v1633963153/Nickelback_AMAs_2011.jpg"  alt="")
 <i class="fa-thin fa-camera"></i> <a href="https://commons.wikimedia.org/wiki/File:Nickelback_AMAs_2011.png">JKMusicGroup</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons.
 
 

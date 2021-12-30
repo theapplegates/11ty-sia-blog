@@ -15,7 +15,7 @@ https://twitter.com/swyx/status/1121868326261665804
 
 Fork the repo and add your OAuth application keys and presto, you get a list  of your sites with an "X" next to them. Hit the "X" and the site is gone.
 
-<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale,dpr_auto/v1638742744/mass-delete.jpg"  alt="" class="cld-responsive">
+![Pic]("https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale,dpr_auto/v1638742744/mass-delete.jpg"  alt="")
 
 Now let's see if I can add a "Select All" button.
 
