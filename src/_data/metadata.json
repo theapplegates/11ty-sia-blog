@@ -1,21 +1,21 @@
 {
   "title": "Living Life",
-  "url": "https://eager-keller-92194d.netlify.app/",
+  "url": "https://theapplegates.com/",
   "language": "en",
   "description": "Follow my daily hijinks here. A lot of science-related stuff, and some serious subjects like cancer. Fuck cancer.",
   "feed": {
     "subtitle": "Follow my daily hijinks here.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://eager-keller-92194d.netlify.app/"
+    "id": "https://theapplegates.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://eager-keller-92194d.netlify.app/feed/feed.json"
+    "url": "https://theapplegates.com/feed/feed.json"
   },
   "author": {
     "name": "Paul Applegate",
     "email": "me@paulapplegate.com",
-    "url": "https://eager-keller-92194d.netlify.app/about-me/"
+    "url": "https://theapplegates.com/about-me/"
   }
 }

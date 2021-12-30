@@ -71,7 +71,7 @@ module.exports = function(eleventyConfig) {
 
   // Add plugins
   eleventyConfig.addPlugin(pluginWebmentions, {
-    domain: "https://eager-keller-92194d.netlify.app" // this is required!
+    domain: "https://theappleagtes.com" // this is required!
   })
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
