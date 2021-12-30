@@ -56,3 +56,10 @@ The video of the impact will be streamed back to Earth, which should be "pretty 
 ![java mug](https://applegate-paul.mo.cloudinary.net/develop-preview-ship.jpg)
 
 ![test](https://applegate-paul.mo.cloudinary.net/clown.jpg)
+
+
+Testing from Google Storage
+
+![a mug](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/develop-preview-ship.jpg)
+
+![A monkey](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/monkey-see.jpg)
