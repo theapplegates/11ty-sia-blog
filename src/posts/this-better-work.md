@@ -60,6 +60,6 @@ The video of the impact will be streamed back to Earth, which should be "pretty 
 
 Testing from Google Storage
 
-![a mug](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/develop-preview-ship.jpg)
+![a mug](https://applegate-paul.mo.cloudinary.net/proxy/https://storage.googleapis.com/cloudinarymedia/images/develop-preview-ship.jpg)
 
-![A monkey](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/monkey-see.jpg)
+![A monkey](https://applegate-paul.mo.cloudinary.net/proxy/https://storage.googleapis.com/cloudinarymedia/images/monkey-see.jpg)
