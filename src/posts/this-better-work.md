@@ -51,7 +51,7 @@ The Double Asteroid Redirection Test will target Dimorphos, a small moon orbitin
 The collision will be recorded by LICIACube, or Light Italian Cubesat for Imaging of Asteroids, a companion cube satellite provided by the Italian Space Agency. Three minutes after the impact, the CubeSat will fly by Dimorphos to capture images and video.
 The video of the impact will be streamed back to Earth, which should be "pretty exciting," said Elena Adams, DART mission systems engineer at the Johns Hopkins Applied Physics Laboratory.
 
-![Monkey See](https://applegate-paul.mo.cloudinary.net/monkey-see.jp)
+![Monkey See](https://applegate-paul.mo.cloudinary.net/monkey-see.jpg)
 
 
 
