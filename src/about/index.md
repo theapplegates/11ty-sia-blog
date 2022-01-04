@@ -16,7 +16,7 @@ If you're curious what TV was like in 1979 then be all means watch the [episode]
 Oh and I lost the game.
 
 
-![ShowTitle](https://applegate-paul.mo.cloudinary.net/img/Pyramid-title.jpg)
+![ShowTitle](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Pyramid-title.jpg)
 
 ![Contract](https://applegate-paul.mo.cloudinary.net/img/contract.jpg)
 
