@@ -11,7 +11,8 @@ layout: layouts/post.njk
 
 Fully vaccinated individuals have a much greater chance of not being impacted by COVID-19, whether that impact is via infection, hospitalization, or death.
 
-{% image "vials.jpg", "Picture of vials" %}
+![Vials](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/vials.jpg)
+
 <i class="fa-thin fa-camera"></i> by <a href="https://j.mp/2XBdjit">Mark Goncharenok</a> on <a href="https://www.pexels.com">Pixels</a>
 
 If you are still unclear on how well vaccinations work against COVID-19 since delta became the predominant variant, the Centers for Disease Control and Prevention (CDC) has put out a [new series of data and charts](https://www.cdc.gov/mmwr/volumes/70/wr/mm7037e1.htm) showing just how well the vaccines work against preventing infection, hospitalization, and deaths.
