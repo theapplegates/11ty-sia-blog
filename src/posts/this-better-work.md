@@ -12,7 +12,7 @@ layout: layouts/post.njk
 
 ![a test](https://applegate-paul.mo.cloudinary.net/another-tree.jpg)
 
-![a mug](https://applegate-paul.mo.cloudinary.net/another/develop-preview-ship.jpg)
+![a mug](https://applegate-paul.mo.cloudinary.net/develop-preview-ship.jpg)
 
 Some of the most exciting space missions are ready to kick off in 2022.
 
