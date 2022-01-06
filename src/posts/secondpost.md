@@ -13,6 +13,10 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 
 ![Picture](https://applegate-paul.mo.cloudinary.net/apple/muffin.jpg)
 
+
+
+![Wet streets be careful](https://applegate-paul.mo.cloudinary.net/pack11/https://storage.googleapis.com/cloudinarymedia/images/street-scene-wet.jpg)
+
 ## Section Header
 
 <a href="{{ '/posts/firstpost/' | url }}">First post</a>
