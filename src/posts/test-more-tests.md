@@ -15,6 +15,12 @@ I also noticed you might get an error message if your media excedes 2 MB, well n
 Below:
 The standard fetch the image and process it for auto format and quality plus resolution match to the user's viewport size.
 
-![A Mountain scene](https://applegate-paul.mo.cloudinary.net/img/mountain.jpg)
+![A Mountain scene](https://applegate-paul.mo.cloudinary.net/mountain.jpg)
 
 {% image "mountain.jpg", "A Mountain scene" %}
+
+Like an animal I had to use the old fashioned Cloudinary URL for this test image.
+
+    https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_800,c_scale,dpr_auto/v1641590401/mountain.jpg
+
+![A mountain](https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_800,c_scale,dpr_auto/v1641590401/mountain.jpg)
