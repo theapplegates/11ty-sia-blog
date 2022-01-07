@@ -31,3 +31,5 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 
 {% image "blue.jpg", "Blueberry morning" %}
+
+
