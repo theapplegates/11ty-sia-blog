@@ -21,6 +21,6 @@ The standard fetch the image and process it for auto format and quality plus res
 
 Like an animal I had to use the old fashioned Cloudinary URL for this test image.
 
-    https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_800,c_scale,dpr_auto/v1641590401/mountain.jpg
+    https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_800,c_scale/v1641590401/mountain.jpg
 
-![A mountain](https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_800,c_scale,dpr_auto/v1641590401/mountain.jpg)
+![A mountain](https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_800,c_scale/v1641590401/mountain.jpg)
