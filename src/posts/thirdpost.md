@@ -26,7 +26,7 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 Of course this is another image test. It turns out it is not easy picking a service to make my images responsive or doing it myself, well me & cloudinary.
 
-<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,c_fill/c_scale,w_auto:breakpoints_200_1920_30_15/cgi-car.jpg" alt="a cgi car" class="cld-responsive">
+<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,c_fill/c_scale,w_auto:breakpoints_200_1920_30_15/cgi-car-low.jpg" alt="a cgi car" class="cld-responsive">
 
 
 ## Section Header
