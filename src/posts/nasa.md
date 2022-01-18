@@ -26,3 +26,5 @@ In addition to learning about our own solar system, Webb will study atmospheres 
 Webb will orbit the Sun at the second Lagrange point, called L2, which is located one million miles from Earth.
 4.
 Webb’s sunshield is the size of a tennis court. It protects the sensitive equipment by creating a difference in temperature between the hot and cold sides of the spacecraft of almost 600 degrees Fahrenheit!
+
+![Test](https://applegate-paul.mo.cloudinary.net/test/hamburger-yum.jpg)
