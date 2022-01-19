@@ -10,6 +10,8 @@ const Image = require("@11ty/eleventy-img");
 const path = require('path');
 const embedTwitter = require("eleventy-plugin-embed-twitter");
 const pluginWebmentions = require("@chrisburnell/eleventy-cache-webmentions");
+const directoryOutputPlugin = require("@11ty/eleventy-plugin-directory-output");
+
 
 
 
