@@ -27,4 +27,6 @@ Webb will orbit the Sun at the second Lagrange point, called L2, which is locate
 4.
 Webb’s sunshield is the size of a tennis court. It protects the sensitive equipment by creating a difference in temperature between the hot and cold sides of the spacecraft of almost 600 degrees Fahrenheit!
 
-![Test](https://applegate-paul.mo.cloudinary.net/test/hamburger-yum.jpg)
+A test.
+
+<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,c_fill/c_scale,w_auto:breakpoints/cgi-car-low.jpg" alt="a cgi car" class="cld-responsive">
