@@ -31,3 +31,5 @@ A test.
 
 <img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,c_fill/c_scale,w_auto:breakpoints/Dad-kevin-meApril-10-2010.jpg" alt="Me-My-Brothe-Dad" class="cld-responsive">
 
+<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,c_fill/c_scale,w_auto:breakpoints_200_1920_30_15/Dad-kevin-meApril-10-2010.jpg" alt="Me-My-Brothe-Dad" class="cld-responsive">
+
