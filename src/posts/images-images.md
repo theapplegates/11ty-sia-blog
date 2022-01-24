@@ -1,11 +1,8 @@
 ---
-title: Images
-description: Let's see more images
+title: Images, more images.
+description: More Cloudinary testing.
 date: 2022-01-23
-tags:
-  - cloudinary
-  - testing
-  - responsive
+tags: Responsive
 layout: layouts/post.njk
 ---
 
