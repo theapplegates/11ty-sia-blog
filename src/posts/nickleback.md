@@ -22,3 +22,4 @@ I also think that their music being very commercial and mediocre probably contri
 My conclusion is that Nickelback is hated for the sake of hating something. They’re not particularly offensive and they’re no more mediocre than lots of music on the radio. They were just low hanging fruit, and hating Nickelback became a fun group activity that everyone could be in on.
 
 
+![trees](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/trees-orange.jpg)
