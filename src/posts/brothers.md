@@ -1,14 +1,13 @@
 ---
 title: Two blind cats
 description: We adopted two blind cats. They were supposibly brothers, so we took them both.
-date: 2022-09-02
+date: 2022-01-09
 tags:
 - Blog
 - Testing
 - WebPerf
 - cats
 - blind
-- "Cotton Bowl"
 layout: layouts/post.njk
 ---
 
