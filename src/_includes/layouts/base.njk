@@ -1,17 +1,6 @@
 <!doctype html>
 <html lang="en">
   <head>
-<form class="d-flex" id="search-form">
-    <div class="input-group">
-        <input
-          type="search"
-          id="autocomplete"
-          class="form-control"
-          placeholder="Search"
-        >
-    </div>
-</form>
-
     <script src="https://kit.fontawesome.com/96d943cb0f.js" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/cloudinary-core/2.12.3/cloudinary-core-shrinkwrap.js" integrity="sha512-KMNn99TvNv6bP4D0H1gNhpVSAf5xds74pMwodUgdMcBUkhDn4Wy0bVXPWs+R/dKJU9HKCQg/9ddC9Ji91OsL6A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
@@ -19,12 +8,12 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
 <script type="text/javascript">
- // algoliasearchNetlify({
- //   appId: '28SC5WJ2LI',
- //   apiKey: '00d91f5c32cd714cc1b9b0f75effe15e',
-//   siteId: '085b06d2-232b-40fb-82a3-bbaa601eeadc',
-//    branch: 'main',
-  //  selector: 'div#search',
+  algoliasearchNetlify({
+    appId: '28SC5WJ2LI',
+    apiKey: '00d91f5c32cd714cc1b9b0f75effe15e',
+   siteId: '085b06d2-232b-40fb-82a3-bbaa601eeadc',
+    branch: 'main',
+    selector: 'div#search',
   });
 </script>
     <meta charset="utf-8">
@@ -47,11 +36,6 @@
 
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css"
-/>
-
   </head>
   <body>
     <header>
@@ -62,7 +46,7 @@
       {%- for entry in collections.all | eleventyNavigation %}
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
       {%- endfor %}
-        <li class="nav-item">  <a href="/feed/feed.xml"> <i class="fa-light fa-square-rss"></i> </a></li> <li class="nav-item"><div id="autocomplete"></div></li>
+        <li class="nav-item">  <a href="/feed/feed.xml"> <i class="fa-light fa-square-rss"></i> </a></li> <li class="nav-item"><div id="search"></div></li>
       </ul>
     </header>
 
@@ -74,24 +58,7 @@
 
     <!-- Current page: {{ page.url | url }} -->
 
-    <!-- Before the closing </body> -->
-    <script src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
-    <script>
-      docsearch({
-        // Your Search API Key
-        apiKey: '09bb3fdfd614e91a48e6737e613ef9d3',
-        // The index populated by the DocSearch scraper
-        indexName: 'index',
-        // Your Algolia Application ID
-        appId: 'WJB3BB1LBY,
-        // Replace inputSelector with a CSS selector
-        // matching your search input
-        inputSelector: '#autocomplete',
-        // Set debug to true to inspect the dropdown
-        debug: false,
-      });
-    </script>
-  </body>
+   </body>
   <script type="text/javascript">
     var cl = cloudinary.Cloudinary.new({cloud_name: "paulportfolio"});
     // replace 'demo' with your cloud name in the line above
