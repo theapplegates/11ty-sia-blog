@@ -36,6 +36,10 @@
 
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css"
+/>
 
   </head>
   <body>
@@ -47,7 +51,7 @@
       {%- for entry in collections.all | eleventyNavigation %}
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
       {%- endfor %}
-        <li class="nav-item">  <a href="/feed/feed.xml"> <i class="fa-light fa-square-rss"></i> </a></li> <li class="nav-item"><div id="search"></div></li>
+        <li class="nav-item">  <a href="/feed/feed.xml"> <i class="fa-light fa-square-rss"></i> </a></li> <li class="nav-item"><div id="autocomplete"></div></li>
       </ul>
     </header>
 
@@ -58,6 +62,24 @@
     {% include 'footer.njk' %}
 
     <!-- Current page: {{ page.url | url }} -->
+
+    <!-- Before the closing </body> -->
+    <script src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
+    <script>
+      docsearch({
+        // Your Search API Key
+        apiKey: '09bb3fdfd614e91a48e6737e613ef9d3',
+        // The index populated by the DocSearch scraper
+        indexName: 'index',
+        // Your Algolia Application ID
+        appId: 'WJB3BB1LBY,
+        // Replace inputSelector with a CSS selector
+        // matching your search input
+        inputSelector: '#autocomplete',
+        // Set debug to true to inspect the dropdown
+        debug: false,
+      });
+    </script>
   </body>
   <script type="text/javascript">
     var cl = cloudinary.Cloudinary.new({cloud_name: "paulportfolio"});
