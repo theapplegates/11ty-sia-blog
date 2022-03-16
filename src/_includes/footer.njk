@@ -4,5 +4,21 @@
 <i class="fa-light fa-copyright fa-sm"></i> 2021 Paul Applegate
 <i class="fa-light fa-pencil fa-sm"></i> <a href="https://github.com/theapplegates/11ty-sia-blog/blob/main/{{ page.inputPath }}"> Edit this page on GitHub.</a>
 <link href="https://github.com/theapplegates" rel="me">
+<div class="flex flex-wrap items-center gap-2">
+  <p id="homepage-lighthouse-scores">Homepage Lighthouse scores (%):</p>
+  <ul
+    class="flex items-center space-x-1"
+    aria-labelledby="homepage-lighthouse-scores"
+  >
+    {% for key, result in lighthouse.categories %}
+    <li
+      class="flex items-center justify-center cursor-help rounded-full h-8 w-8 border-2 {{ 'border-green-300' if result.grade === 'good' else 'border-yellow-400' }}"
+      title="{{ result.title }}"
+    >
+      <span class="sr-only">{{ result.title }}: </span>{{ result.score }}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
 </small>
 </footer>

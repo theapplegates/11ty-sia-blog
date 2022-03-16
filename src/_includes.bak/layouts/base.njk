@@ -7,6 +7,9 @@
     <meta name="description" content="{{ description or metadata.description }}">
 
     <!-- Inline and minify CSS - VS Code thinks this is invalid but it's fine -->
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
     {% set code_css %}
       {% include "_code.css" %}
     {% endset %}
