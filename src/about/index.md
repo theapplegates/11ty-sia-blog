@@ -16,11 +16,11 @@ If you're curious what TV was like in 1979 then be all means watch the [episode]
 Oh and I lost the game.
 
 
-![ShowTitle](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Pyramid-title.jpg)
+![The show intro graphic](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Pyramid-title.jpg)
 
-![Contract](https://applegate-paul.mo.cloudinary.net/img/contract.jpg)
+![My contract ](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/contract.jpg)
 
-![me-mom](https://applegate-paul.mo.cloudinary.net/img/Me-Mom.jpg)
+![me and mom](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Me-Mom.jpg)
 
 
 
