@@ -12,6 +12,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+![Ukraine](/src/img/Ukraine-ancestry.jpg)
+
 Below is of course a beautiful shot of Cincinnati.
 
 ![City](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Cinci-bearcat.jpg)
