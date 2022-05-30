@@ -12,7 +12,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-![Ukraine](/src/img/Ukraine-ancestry.jpg)
+![Ukraine](./src/img/Ukraine-ancestry.jpg)
 
 Below is of course a beautiful shot of Cincinnati.
 
