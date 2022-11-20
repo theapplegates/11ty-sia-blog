@@ -52,5 +52,5 @@ Generated 10 paragraphs, 874 words, 5970 bytes of [Lorem Ipsum](https://www.lips
 https://twitter.com/mikesherov/status/1443679254009483273
 
 
-Hi says a ![hamburger](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/hillshire-farm.jpg)
+Hi says a ![hamburger](https://applegate-paul.mo.cloudinary.net/zoom/hillshire-farm.jpg)
 
